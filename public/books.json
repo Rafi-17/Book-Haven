@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://i.ibb.co.com/b7ZmQPW/Banner-img.png",
+      "review": "A chilling psychological thriller that follows the unraveling of a mysterious crime. Alicia Berenson, a painter, shoots her husband and falls silent, leaving behind a trail of suspense. The story delves deep into the human psyche, keeping readers on edge until the shocking climax.",
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": "Young Adult",
+      "tags": ["Suspense", "Psychological", "Mystery"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": 2,
+      "bookName": "Atomic Habits",
+      "author": "James Clear",
+      "image": "https://i.ibb.co.com/b7ZmQPW/Banner-img.png",
+      "review": "This book offers practical strategies for transforming your habits and achieving long-term success. James Clear combines neuroscience and personal anecdotes to demonstrate how small, consistent changes can lead to remarkable results. A must-read for anyone looking to break bad habits or create positive ones.",
+      "totalPages": 320,
+      "rating": 4.8,
+      "category": "Self-help",
+      "tags": ["Productivity", "Motivation"],
+      "publisher": "Avery",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 3,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co.com/b7ZmQPW/Banner-img.png",
+      "review": "A poignant exploration of race, morality, and human compassion set in the American South. Through the eyes of young Scout Finch, the story captures the struggles of her father, a lawyer, as he defends a black man wrongly accused of a crime. A timeless masterpiece that remains relevant today.",
+      "totalPages": 324,
+      "rating": 4.9,
+      "category": "Classic Literature",
+      "tags": ["Classic", "Historical", "Drama"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "https://i.ibb.co.com/b7ZmQPW/Banner-img.png",
+      "review": "An enchanting tale about following one's dreams and discovering one's purpose. Santiago, a shepherd, embarks on a life-changing journey to find treasure but discovers the real treasure lies within. Full of wisdom and inspiration, it’s a story that resonates with readers of all ages.",
+      "totalPages": 208,
+      "rating": 4.6,
+      "category": "Young Adult",
+      "tags": ["Inspirational", "Adventure", "Philosophy"],
+      "publisher": "HarperOne",
+      "yearOfPublishing": 1988
+    },
+    {
+      "bookId": 5,
+      "bookName": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "image": "https://i.ibb.co.com/b7ZmQPW/Banner-img.png",
+      "review": "A profound and engaging journey through the history of humanity, from the emergence of Homo sapiens to the present day. Harari examines how biology, culture, and technology have shaped our societies and raises thought-provoking questions about our future. A fascinating read for history enthusiasts and thinkers.",
+      "totalPages": 464,
+      "rating": 4.7,
+      "category": "Non-fiction",
+      "tags": ["History", "Anthropology", "Science"],
+      "publisher": "Harper",
+      "yearOfPublishing": 2014
+    },
+    {
+      "bookId": 6,
+      "bookName": "Dune",
+      "author": "Frank Herbert",
+      "image": "https://i.ibb.co.com/b7ZmQPW/Banner-img.png",
+      "review": "A groundbreaking science fiction epic that transports readers to the desert planet of Arrakis. The story is a richly woven tapestry of politics, religion, ecology, and human ambition. With unforgettable characters and intricate world-building, 'Dune' is a masterpiece that has influenced generations of sci-fi enthusiasts.",
+      "totalPages": 688,
+      "rating": 4.8,
+      "category": "Science Fiction",
+      "tags": ["Sci-Fi", "Adventure", "Epic"],
+      "publisher": "Chilton Books",
+      "yearOfPublishing": 1965
+    }
+  ]
+  
