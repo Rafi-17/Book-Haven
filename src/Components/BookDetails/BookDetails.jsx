@@ -1,6 +1,7 @@
 import { Link, useLoaderData, useParams } from "react-router-dom";
 import { getStoredReadlist, getStoredWishlist, removeFromWishlist, saveReadlist, saveWishlist } from "../utility/localStorage";
 import { ToastContainer, toast } from 'react-toastify';
+import { Helmet } from "react-helmet";
 
 const BookDetails = () => {
     const books=useLoaderData();
@@ -46,6 +47,9 @@ const BookDetails = () => {
 
     return (
         <div>
+            <Helmet>
+                <title>Book: {bookId}</title>
+            </Helmet>
             <div className="flex">
                 <div className="w-1/2">
                     <img src={image} alt="" />
