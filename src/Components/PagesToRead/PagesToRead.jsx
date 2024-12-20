@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { useLoaderData } from "react-router-dom";
 import { getStoredReadlist } from "../utility/localStorage";
 import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid } from "recharts";
+import { Helmet } from "react-helmet";
 
 const PagesToRead = () => {
     const [readlist, setReadlist]=useState([]);
@@ -38,6 +39,9 @@ const PagesToRead = () => {
     
     return (
         <div>
+            <Helmet>
+                <title>BookHaven | PagesToRead</title>
+            </Helmet>
             <BarChart
                 width={1200}
                 height={500}

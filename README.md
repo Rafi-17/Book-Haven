@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live site- [momentous-time.surge.sh](https://momentous-time.surge.sh/)
+# Project fearures:
+- This website is responsive for mobile and tablet device except for listedbooks routes which will be updated soon.
+- Here users can see the books available on the site and check details of each book.
+- Users can add books to the read list and the wish list and also sort them in the listed books route. The number of pages of read books are shown by bar chart also.
